@@ -1,8 +1,18 @@
-"dependencies": {
-  "next": "13.5.4",
-  "react": "18.2.0",
-  "react-dom": "18.2.0",
-  "tailwindcss": "^4.0.0",
-  "@tailwindcss/postcss": "^4.0.0",
-  "autoprefixer": "^10.4.16"
+{
+  "name": "noore-soha-order-form",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "13.5.4",
+    "react": "18.2.0",
+    "react-dom": "18.2.0",
+    "tailwindcss": "^4.0.0",
+    "@tailwindcss/postcss": "^4.0.0",
+    "autoprefixer": "^10.4.16"
+  }
 }
